@@ -10,10 +10,7 @@
         android:id="@+id/lblAddAnimal"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginStart="176dp"
-        android:layout_marginTop="189dp"
-        android:layout_marginEnd="177dp"
-        android:layout_marginBottom="523dp"
+
         android:textColor="@color/white"
         android:textSize="24dp"
         android:text="@string/addText"
