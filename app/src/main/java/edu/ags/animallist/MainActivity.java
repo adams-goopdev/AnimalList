@@ -71,7 +71,7 @@ public class MainActivity extends AppCompatActivity {
         if (id == R.id.action_settings) {
 
             //Invoke the Dialog
-            addItemDialog();
+            addAnimalDialog();
 
             return true;
         }
@@ -79,7 +79,7 @@ public class MainActivity extends AppCompatActivity {
         return super.onOptionsItemSelected(item);
     }
 
-    private void addItemDialog() {
+    private void addAnimalDialog() {
 
         Log.d(TAG, "addItemDialog: Start");
 
